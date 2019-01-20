@@ -20,3 +20,26 @@ html {
 body {
   margin: 0;
 }
+
+header {
+  background-color: #e2e2e2;
+}
+
+a {
+  text-decoration: none;
+  color: #0074d9;
+}
+
+a:hover {
+  background-color: #0074d9;
+  color: #fff;
+}
+
+ul {
+  list-style: none;
+  text-decoration: none;
+}
+
+ul li {
+  display: inline-block;
+}
