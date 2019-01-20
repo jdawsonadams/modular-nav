@@ -43,3 +43,19 @@ ul {
 ul li {
   display: inline-block;
 }
+
+@media only screen and (min-width: 25em) {
+
+  header {
+    text-align: center;
+  }
+
+}
+
+@media only screen and (min-width: 68em) {
+
+  header {
+    text-align: left;
+  }
+
+}
